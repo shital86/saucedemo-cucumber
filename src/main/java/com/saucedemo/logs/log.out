@@ -1,0 +1,51 @@
+2022-05-18 17:05:814 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:293 INFO  HomePage :29 - Enter Username : standard_user
+2022-05-18 17:05:372 INFO  HomePage :33 - Enter Password : secret_sauce
+2022-05-18 17:05:510 INFO  HomePage :37 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (0cfa24c18a21679131c51e4b6212fa5b)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:529 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:606 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:673 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:805 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (412768a9c4136820142eb0c6aab57b88)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:199 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:478 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:569 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:717 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (fcfa9742d701a3fbf9c68229792c82e5)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:425 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:36 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:135 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:291 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (d64734fc4a1822d31f901eb40b5c30fe)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:756 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:301 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:389 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:523 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (434229e9771cd017d6aa3ab1bd8a8e70)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:122 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:375 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:444 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:540 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (b73b945f99d4818f11493de29140ccd5)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:805 INFO  InventoryPage :33 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (b73b945f99d4818f11493de29140ccd5)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 17:05:915 INFO  InventoryPage :33 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (b73b945f99d4818f11493de29140ccd5)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 17:05:576 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:761 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 17:05:834 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 17:05:946 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (d94b028c07c6594ccaaf6a1c911f191f)] -> xpath: //input[@id='login-button']]
+2022-05-18 17:05:212 INFO  InventoryPage :33 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (d94b028c07c6594ccaaf6a1c911f191f)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 17:05:310 INFO  InventoryPage :33 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (d94b028c07c6594ccaaf6a1c911f191f)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:316 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 18:05:603 INFO  HomePage :30 - Enter Username : standard_user
+2022-05-18 18:05:670 INFO  HomePage :34 - Enter Password : secret_sauce
+2022-05-18 18:05:786 INFO  HomePage :38 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (5d73b041460baf843882bd76c4c3a881)] -> xpath: //input[@id='login-button']]
+2022-05-18 18:05:971 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (5d73b041460baf843882bd76c4c3a881)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:05 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (5d73b041460baf843882bd76c4c3a881)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:902 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 18:05:374 INFO  HomePage :33 - Enter Username : standard_user
+2022-05-18 18:05:484 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-05-18 18:05:678 INFO  HomePage :41 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (31ba0d706a6da6917bb922f8eeee7f4c)] -> xpath: //input[@id='login-button']]
+2022-05-18 18:05:985 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (31ba0d706a6da6917bb922f8eeee7f4c)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:44 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (31ba0d706a6da6917bb922f8eeee7f4c)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:335 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 18:05:599 INFO  HomePage :33 - Enter Username : standard_user
+2022-05-18 18:05:706 INFO  HomePage :37 - Enter Password : secret_sauce
+2022-05-18 18:05:902 INFO  HomePage :41 - Clicking on LoginBtn : [[ChromeDriver: chrome on WINDOWS (a8fe7ed64f6e9e660af461611167f29a)] -> xpath: //input[@id='login-button']]
+2022-05-18 18:05:208 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a8fe7ed64f6e9e660af461611167f29a)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:265 INFO  InventoryPage :38 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a8fe7ed64f6e9e660af461611167f29a)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-05-18 18:05:929 INFO  CheckOutCompletePage :23 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a8fe7ed64f6e9e660af461611167f29a)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
