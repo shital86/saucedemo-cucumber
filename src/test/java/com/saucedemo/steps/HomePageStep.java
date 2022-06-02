@@ -13,6 +13,7 @@ import org.junit.Assert;
 public class HomePageStep {
     @Given("^I am on saucedemo page$")
     public void iAmOnSaucedemoPage() {
+        System.out.println("This change is done by lalit");
 
     }
 
